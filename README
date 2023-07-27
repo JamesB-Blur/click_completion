@@ -1,6 +1,11 @@
 $ completion
 ============
 
+This is a test bed for working with Click's shell completion functionality.
+
+https://click.palletsprojects.com/en/8.1.x/shell-completion/
+https://github.com/pallets/click/tree/main/examples/completion
+
 Demonstrates Click's shell completion support.
 
 .. code-block:: bash
