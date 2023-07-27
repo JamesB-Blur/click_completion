@@ -6,6 +6,12 @@ This is a test bed for working with Click's shell completion functionality.
 https://click.palletsprojects.com/en/8.1.x/shell-completion/
 https://github.com/pallets/click/tree/main/examples/completion
 
+Install:
+1. Create a Python virtual environment `python3 venv .venv`
+2. Activate rhw venv
+3. Install an editable package `pip install -e .`
+4. Utilize one of the shell eval commands below:
+
 Demonstrates Click's shell completion support.
 
 .. code-block:: bash
