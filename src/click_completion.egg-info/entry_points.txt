@@ -1,2 +1,0 @@
-[console_scripts]
-completion = click_completion.__main__:main
