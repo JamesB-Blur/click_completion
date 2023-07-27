@@ -1,0 +1,11 @@
+README
+pyproject.toml
+src/click_completion/__init__.py
+src/click_completion/__main__.py
+src/click_completion/completion.py
+src/click_completion.egg-info/PKG-INFO
+src/click_completion.egg-info/SOURCES.txt
+src/click_completion.egg-info/dependency_links.txt
+src/click_completion.egg-info/entry_points.txt
+src/click_completion.egg-info/requires.txt
+src/click_completion.egg-info/top_level.txt

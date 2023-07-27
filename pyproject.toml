@@ -1,0 +1,17 @@
+[build-system]
+requires = [
+    "setuptools",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "click_completion"
+description = "Testing Click tab completion"
+version = '0.0.1'
+requires-python = ">=3.7"
+dependencies = [
+    "click",
+]
+
+[project.scripts]
+completion = "click_completion.__main__:main"
