@@ -14,4 +14,4 @@ dependencies = [
 ]
 
 [project.scripts]
-completion = "click_completion.__main__:main"
+completion = "click_completion.cli:main"
