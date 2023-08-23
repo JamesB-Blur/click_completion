@@ -60,5 +60,6 @@ def select_user(user):
 
 
 def main():
+    print("Hello")
     cli.add_command(group)
     cli()
